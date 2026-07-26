@@ -1,3 +1,1 @@
-git add hello.py
-git commit . -m "Create a file"
-git push
+git clone copied https://github.com/josiahpuga992-afk/cs110-JosiahPuga.git
